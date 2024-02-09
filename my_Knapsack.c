@@ -35,9 +35,7 @@ int main(){
     for (i = 0; i < j; i++)
     {
         printf(" %s", result[i]);
-    }
-    
-    printf("\n");  
+    } 
 }
 
 
